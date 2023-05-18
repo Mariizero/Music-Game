@@ -1,0 +1,14 @@
+Log 
+
+
+Nome: 
+Fase 0
+0 Nota
+19 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 0
+13 Nota
+26 ErroComissao
+0 ErroOmissao
